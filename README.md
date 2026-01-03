@@ -1,21 +1,52 @@
-           HEAD
-# React + Vite
+# Lost & Found Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application designed to help users report and find lost or found items easily.  
+The platform provides a centralized place to manage lost and found items securely.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Problem Statement
 
-## React Compiler
+People frequently lose personal belongings in public places such as colleges, offices, and events.  
+There is no single, reliable system to report and track lost and found items efficiently.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💡 Solution
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-      
-# Lost-and-found-
-This web app to find lost thing online 
-         5d537a73b9c73d627b3093e89e280e5f98c9e252
+This Lost & Found Web Application allows users to:
+- Report lost items
+- Report found items
+- View all listed items
+- Manage their own posts securely through authentication
+
+---
+
+## ✨ Features
+
+- User Registration and Login
+- Post Lost Items
+- Post Found Items
+- View All Items
+- My Items Dashboard
+- Protected Routes
+- Responsive UI
+- Firebase Authentication
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React (Vite)
+- JavaScript
+- CSS
+
+**Backend / Services**
+- Firebase Authentication
+- Firebase Hosting
+
+---
+
+## 📂 Project Structure
+
