@@ -45,6 +45,7 @@ This Lost & Found Web Application allows users to:
 **Backend / Services**
 - Firebase Authentication
 - Firebase Hosting
+- Cloudinary
 
 ---
 
